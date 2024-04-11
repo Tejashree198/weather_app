@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  geolocator: ^11.0.0
-  equatable: ^2.0.5
-  flutter_bloc: ^8.1.5
-  intl: ^0.19.0
-  weather: ^3.1.1
+  geolocator: any
+  equatable: any
+  flutter_bloc: any
+  intl: any
+  weather: any
 
 dev_dependencies:
   flutter_test:
@@ -22,5 +22,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+ 
   assets:
     - assets/
